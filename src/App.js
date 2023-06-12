@@ -1,14 +1,15 @@
 import './App.css';
-import Evento from './components/Evento';
-import Form from './components/Form';
+import OutraLista from './components/OutraLista';
 
 function App() {
 
+  const meusItens = ['React' , 'vue', 'angular']
+
   return (
     <div className="App">
-      <h1>Testando eventos</h1>
-      <Evento/>
-      <Form/>
+      <h1>Renderização de Listas</h1>
+      <OutraLista itens={meusItens}/>
+      <OutraLista itens={[]}/>
     </div>
   );
 }
