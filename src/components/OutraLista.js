@@ -1,4 +1,4 @@
-import Item from "./Item"
+
 
 function OutraLista({ itens }) {
     return (
