@@ -4,6 +4,7 @@ import Container from "./components/layout/Container";
 import Navbar from "./components/layout/Navbar";
 import Clientes from "./components/pages/Clientes";
 import Estoque from "./components/pages/Estoque";
+import Rodape from "./components/layout/Rodape";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path="/clientes" element={<Clientes />} />
         </Routes>
       </Container>
+      <Rodape/>
     </Router>
   );
 }
