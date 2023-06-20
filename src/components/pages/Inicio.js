@@ -1,5 +1,4 @@
 import Acoes from '../Acoes'
-import Rodape from '../layout/Rodape'
 import styles from './Inicio.module.css'
 
 function Inicio(){
@@ -8,7 +7,6 @@ function Inicio(){
             <h1 className={styles.titulo}>Bem vindo Cristiano</h1>
             <p className={styles.texto}>Aqui estão as suas ultimas ações</p>
             <Acoes/>
-
         </div>
     )
 }
