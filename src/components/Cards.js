@@ -46,6 +46,16 @@ function Cards() {
                     <p>rua:</p>
                     <p>Fone:</p>
                     <p>Apelido:</p>
+                </div><div className={styles.card}>
+                    <h1>Nome do cliente</h1>
+                    <p>rua:</p>
+                    <p>Fone:</p>
+                    <p>Apelido:</p>
+                </div><div className={styles.card}>
+                    <h1>Nome do cliente</h1>
+                    <p>rua:</p>
+                    <p>Fone:</p>
+                    <p>Apelido:</p>
                 </div>
             </div>
         </div>
