@@ -1,17 +1,19 @@
 *{
     margin: 0;
+    padding: 0;
 }
 
 .navbar{
     justify-content: space-between;
     padding: 1em;
     display: flex;
-    background-color: rgb(38, 156, 84);
+    background-color: #1E5128;
 }
 
 .list {
     list-style: none;
     display: flex;
+    
 }
 
 .list li {
@@ -19,14 +21,20 @@
 }
 
 .item {
-    margin-right: 1em;
+    margin: 0.2em;
+    background-color: #4E9F3D;
+    border-radius: 1em;
 }
+
 
 .item a {
     text-decoration: none;
-    color: black;
+    color: #FFFFFF;
+    padding: 1em;
 }
 
 .item a:hover {
-    color: rgb(162, 170, 170);
+    color: #1C2321;
+    
 }
+

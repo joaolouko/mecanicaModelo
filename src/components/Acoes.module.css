@@ -5,17 +5,24 @@
 }
 
 .card{
-    background-color: green;
+    background-color: #4E9F3D;
     padding: 0.2em;
-    margin: 1em;
-    border-radius: 0.5em;
-    width: 20em;
+    border-radius: .5em;
+    width: 20em; 
 }
 
 .card h1{
     display: flex;
     justify-content: center;
+    color: black;
 }
+
+.card h1,h3{
+    color: #F1F0EF;
+}
+
+
+
 
 @media (max-width: 700px){
     .card{

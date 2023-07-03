@@ -1,5 +1,6 @@
 import Acoes from '../Acoes'
 import styles from './Inicio.module.css'
+import Noticias from '../Conexoes'
 
 function Inicio() {
     return (
@@ -11,6 +12,7 @@ function Inicio() {
 
             <div className={styles.container}>
                 <Acoes />
+                <Noticias/>
             </div>
 
         </div>
