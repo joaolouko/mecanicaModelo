@@ -6,56 +6,102 @@ function Cards() {
             <div className={styles.container_cards}>
                 <div className={styles.card}>
                     <h1>Nome do cliente</h1>
+                    <p>cidade:</p>
+                    <p>bairro:</p>
                     <p>rua:</p>
                     <p>Fone:</p>
                     <p>Apelido:</p>
+                    <p>acrescimo:</p>
                 </div>
                 
                 <div className={styles.card}>
                     <h1>Nome do cliente</h1>
+                    <p>cidade:</p>
+                    <p>bairro:</p>
                     <p>rua:</p>
                     <p>Fone:</p>
                     <p>Apelido:</p>
+                    <p>acrescimo:</p>
                 </div>
 
                 <div className={styles.card}>
                     <h1>Nome do cliente</h1>
+                    <p>cidade:</p>
+                    <p>bairro:</p>
                     <p>rua:</p>
                     <p>Fone:</p>
                     <p>Apelido:</p>
+                    <p>acrescimo:</p>
                 </div>
 
                 <div className={styles.card}>
                     <h1>Nome do cliente</h1>
+                    <p>cidade:</p>
+                    <p>bairro:</p>
                     <p>rua:</p>
                     <p>Fone:</p>
                     <p>Apelido:</p>
+                    <p>acrescimo:</p>
                 </div>
+
                 <div className={styles.card}>
                     <h1>Nome do cliente</h1>
+                    <p>cidade:</p>
+                    <p>bairro:</p>
                     <p>rua:</p>
                     <p>Fone:</p>
                     <p>Apelido:</p>
-                </div><div className={styles.card}>
+                    <p>acrescimo:</p>
+                </div>
+
+                <div className={styles.card}>
                     <h1>Nome do cliente</h1>
+                    <p>cidade:</p>
+                    <p>bairro:</p>
                     <p>rua:</p>
                     <p>Fone:</p>
                     <p>Apelido:</p>
-                </div><div className={styles.card}>
+                    <p>acrescimo:</p>
+                </div>
+
+                <div className={styles.card}>
                     <h1>Nome do cliente</h1>
+                    <p>cidade:</p>
+                    <p>bairro:</p>
                     <p>rua:</p>
                     <p>Fone:</p>
                     <p>Apelido:</p>
-                </div><div className={styles.card}>
+                    <p>acrescimo:</p>
+                </div>
+
+                <div className={styles.card}>
                     <h1>Nome do cliente</h1>
+                    <p>cidade:</p>
+                    <p>bairro:</p>
                     <p>rua:</p>
                     <p>Fone:</p>
                     <p>Apelido:</p>
-                </div><div className={styles.card}>
+                    <p>acrescimo:</p>
+                </div>
+
+                <div className={styles.card}>
                     <h1>Nome do cliente</h1>
+                    <p>cidade:</p>
+                    <p>bairro:</p>
                     <p>rua:</p>
                     <p>Fone:</p>
                     <p>Apelido:</p>
+                    <p>acrescimo:</p>
+                </div>
+
+                <div className={styles.card}>
+                    <h1>Nome do cliente</h1>
+                    <p>cidade:</p>
+                    <p>bairro:</p>
+                    <p>rua:</p>
+                    <p>Fone:</p>
+                    <p>Apelido:</p>
+                    <p>acrescimo:</p>
                 </div>
             </div>
         </div>
